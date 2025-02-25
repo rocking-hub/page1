@@ -7,6 +7,8 @@ function Ranga(){
                 <p>
                 the dragon warrior world come on
                 </p>
+
+                <button>Add Yor Text</button>
         </>
     )
 }

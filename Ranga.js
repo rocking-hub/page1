@@ -9,6 +9,7 @@ function Ranga(){
                 </p>
 
                 <button>Add Yor Text</button>
+                <button>delete your text</button>
         </>
     )
 }
